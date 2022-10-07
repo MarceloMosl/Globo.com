@@ -1,0 +1,150 @@
+body{
+    font-family: fonteg1;
+}
+p{font-family: fonteg2;
+    
+}
+@font-face {
+    font-family: fonteg1;
+    src: url(./Assets/EncodeSans_Condensed-ExtraBold.ttf);
+}
+@font-face {
+    font-family: fonteg2;
+    src: url(./Assets/EncodeSans-VariableFont_wght.ttf);
+}
+.globo{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 13px;
+}
+.hr{
+    height: 1px;
+    background-color: 
+    #E6E6E6;
+}
+.hr2{
+height: 1px;
+background-color: #E6E6E6;
+margin-top: 7px;
+margin-bottom: 24px;
+   
+}
+.link-head{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+    font-family: fonteg1;
+    font-size: 19px;
+    margin-top: 13px;
+    margin-bottom: 10px;
+}
+.g1{
+    color: #A80001;
+}.ge{
+    color: #06AA48;
+}.gshow{
+    color: #FF7F00;
+}.tech{
+   color: #666666;
+}.videos{
+    color: #0769DE;
+}
+main{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+h1{
+    color: #CD150B;
+    font-size: 32px;
+    margin-top: 18px;
+    margin-bottom: 7px;
+}
+h2{
+    color: #CD150B;
+    font-size: 18px;
+    margin-top: 14px;
+    margin-bottom: 10px;
+}
+.new-1{
+    display: flex;
+    flex-direction: row;
+    color: #CD150B;
+    font-size: 19px;
+    gap: 13px;
+}
+.new-1 a{
+    color: #A80001;
+}
+.p1{
+    font-size: 16px;
+    color: #CD150B;
+    margin-top: 17px;
+    margin-bottom: 7px;
+}
+.mid-news{
+    color: #CD150B;
+
+}
+.mid-news div {
+    font-size: 19px;
+    margin-top: 14px;
+}
+.mid-news p {
+    font-size: 15.5px;
+    margin-top: 5px;
+    margin-bottom: 37px;
+}
+.mid-news .hr{
+    margin-top: 0;
+}
+.new-2{
+    display: flex;
+    flex-direction: row;
+    color: #06AA48;
+    font-size: 19px;
+    gap: 13px;
+}
+.p2{
+    font-size: 16px;
+    color: #06AA48;
+    margin-top: 17px;
+    margin-bottom: 7px;
+}
+.green-news{
+    color: #06AA48;
+    font-weight: bold;
+    font-size: 18px;
+}
+.green-news p {
+    font-size: 15.5px;
+    font-weight: normal;
+    margin-top: 11px;
+    margin-bottom: 21px;
+}
+.green-news a{
+    color: #06AA48;
+}
+
+.yellow-news new-2{
+    color: #FF8203;
+}
+.yellow-news .p2 {
+    color: #FF8203;
+
+}
+.yellow-news div{
+    color: #FF8203;
+    margin-bottom: 15px;
+
+}
+.yellow-news p{
+    color: #FF8203;
+    margin-top: 11px;
+
+}
+.yellow-news a{
+    color: #FF8203;
+
+}
